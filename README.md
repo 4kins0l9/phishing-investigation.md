@@ -1,4 +1,4 @@
-# phishing-investigation.md
+
 ## Lab: Phishing Email Investigation
 
 ### Objective
